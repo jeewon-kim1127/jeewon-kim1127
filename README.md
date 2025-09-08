@@ -3,5 +3,8 @@
 -->
 ## My Study
 ⚡ KAIST Electrical Engineering graduated <br/>
-🌱 Master program in [URL, KAIST EE](https://github.com/url-kaist) <br/>
-💬 Visual SLAM, UAVs <br/>
+🌱 PhD program in [URL, KAIST EE](https://github.com/url-kaist) <br/>
+💬 Robotics, 3D Scene Graphs, Mapping, Humanoids, UAVs, UGVs <br/>
+
+## Papers
+* TACS-Graphs [IROS 25' Accepted] (https://arxiv.org/abs/2506.14178)
